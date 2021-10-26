@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Titulo -->
+    <string name="pregunta">Que tal te fue en tu dia?</string>
+
+    <!-- Respuestas -->
+    <string name="respuesta1">Excelente</string>
+    <string name="respuesta2">Bueno</string>
+    <string name="respuesta3">Malo</string>
+    <string name="respuesta4">Pesimo</string>
+
+    <!--- Mensajes -->
+    <string name="mensaje1">Que buena Onda!!</string>
+    <string name="mensaje2">Seguro que mañana sera excelente</string>
+    <string name="mensaje3">Vamos! que no se decaiga</string>
+    <string name="mensaje4">Arriba ese animo</string>
+
+</resources>
